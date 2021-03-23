@@ -11,7 +11,6 @@ El programa permite:
 Para cada almacén:
 1. Registrar la entrada de un nuevo artículo (actualizando el inventario)
 2. Visualizar la información del artículo que tiene un código determinado
-3. Visualizar la información del número de artículos diferentes registrado en el
-inventario
+3. Visualizar la información del número de artículos diferentes registrado en el inventario
 4. Visualizar la información del valor total del inventario del almacén
 5. Registrar la venta de un artículo (actualizando el inventario)
